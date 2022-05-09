@@ -25,4 +25,4 @@ Server-Side API - OpenWeather API
 Published link: https://schai2009.github.io/weather-app/
 Github link: https://github.com/schai2009/weather-app
 
-![image](https://user-images.githubusercontent.com/101296284/167343744-b8949629-d4a6-494c-9523-65ab3b3fd706.png)
+![image](https://user-images.githubusercontent.com/101296284/167344250-84648f0f-5a70-4804-b698-385e524d78a2.png)
